@@ -196,7 +196,7 @@ Author URI:      derbysport
     -ms-flex-align: center;
     align-items: center;
     height: 100%;
-    background: #38377f30;
+    background: #cccccc36;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -285,7 +285,7 @@ Author URI:      derbysport
     font-size: 16px;
     width: 100%;
     margin: 0;
-    color: #313072;
+    color: #333333;
     text-align: center;
     font-weight: 700;
     line-height: 1;
@@ -310,7 +310,7 @@ Author URI:      derbysport
     font-family: sans-serif;
     direction: ltr;
     font-size: 30px;
-    color: #1d1c48;
+    color: #333333;
     font-weight: 700;
     padding: 0;
     margin: 0;
@@ -341,7 +341,7 @@ Author URI:      derbysport
 }
 
 .alba-live-table .result {
-    color: #2de390;
+    color: #d61923;
     font-size: 35px;
     font-family: arial;
     display: inline-block;
@@ -371,7 +371,7 @@ Author URI:      derbysport
 }
 
 .alba-live-table .gools .Matchestatus .status .stay,.h3.alba_sports_events-event_mask_inner_text.orange {
-    background: #ffa007
+    background: #ff2007;
 }
 
 .alba-live-table.started .status .date,.alba-live-table .Matchestatus .status .live {
@@ -413,7 +413,7 @@ Author URI:      derbysport
 }
 
 .chanels-fix {
-    /* border: 1px solid #13e090; */
+    border-bottom: 2px solid #a90100;
     margin-top: 6px;
     text-align: center;
     padding: 10px 0 6px;
@@ -432,7 +432,7 @@ Author URI:      derbysport
 .alba-live-table .events-info span {
     width: 33.33333333%;
     font-size: 0.7em;
-    color: #454469;
+    color: #222222;
     text-align: center;
     padding: 0 3px;
     font-size: 12px;
