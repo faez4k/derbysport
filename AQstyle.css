@@ -28,7 +28,7 @@ body,button,input,select,textarea {
 }
 
 a {
-    color: #000;
+    color: #f71f1f;
     text-decoration: none!important
 }
 
@@ -4393,7 +4393,7 @@ body {
 
 a {
     text-decoration: none;
-    color: #333
+    color: #da2626;
 }
 
 .AlbaSport_menu a {
