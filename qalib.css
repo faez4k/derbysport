@@ -204,7 +204,7 @@ Author URI:      derbysport
 
 .alba-live-table .alba_sports_events-event_mask_inner_text {
     margin-top: 0;
-    background-color: #cc4141;
+    background: linear-gradient(86deg,#0c9,#09f);
     color: #fff;
     padding: 5px 30px!important;
     font-size: 14px;
@@ -358,7 +358,7 @@ Author URI:      derbysport
     color: #ffffff;
     padding: 0 10px 1px;
     border-radius: 80px;
-    background: #cc4141;
+    background: #6e6f71;
     font-weight: 700;
     line-height: 19px;
     display: inline-block;
@@ -413,7 +413,7 @@ Author URI:      derbysport
 }
 
 .chanels-fix {
-    border-bottom: 1px solid #cd4141;
+    /* border-bottom: 1px solid #cd4141; */
     margin-top: 6px;
     text-align: center;
     padding: 10px 0 6px;
