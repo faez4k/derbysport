@@ -1295,24 +1295,29 @@ Author URI:      derbysport
 
 	.blink-bg{
 		color: #fff;
-		padding: 10px;
+		padding: 4px;
 		display: inline-block;
 		border-radius: 5px;
-		animation: blinkingBackground 2s infinite;
+		animation: blinkingBackground 0.4s infinite;
+		margin: 0 auto!important;
+		font-weight: 700;
+		line-height: 19px;
+		border-radius: 12px;
+		padding: 0 10px 1px;
 	}
 	@keyframes blinkingBackground{
-		0%		{ background-color: #10c018;}
-		25%		{ background-color: #1056c0;}
-		50%		{ background-color: #ef0a1a;}
-		75%		{ background-color: #254878;}
-		100%	        { background-color: #04a1d5;}
+		0%		{ background-color: #a10202;}
+        25%		{ background-color: #ff0000;}
+        50%		{ background-color: #a10202;}
+        7%		{ background-color: #ff0000;}
+		100%	        { background-color: #a10202;}
 	}
 
 .blink-text{
 		color: #000;
 		font-weight: bold;
 		font-size: 2rem;
-		animation: blinkingText 2s infinite;
+		animation: blinkingText 0.1s infinite;
 	}
 	@keyframes blinkingText{
 		0%		{ color: #10c018;}
