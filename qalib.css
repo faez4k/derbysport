@@ -697,14 +697,21 @@ Author URI:      derbysport
     margin-right: 0
 }
 
+
 .alba-live-table .events-info .albaicon.microphone,.alba_match_card .albaicon.microphone {
-    background-image: url(../img/com.svg);
+    background-image: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrZna7q7-Em-mCfeHpLWHWGZ2zuwiApIFFPc67HnvH-i5bETR8_jqlmZveFhM4qcD9e2ksYVlwYTRyI8to5Y4Vk0wuEzHvQpiqvWoap7v_9inRdBAe3gNGHF0qr8wtbpgPs33isjpXBBF-JbQ5ZC-w9OJpCBk4MNqcR_2J0AvgDUZrEAbXFK5bv4IIhw/s320/%D9%85%D8%A7%D9%8A%D9%83.gif);
     background-size: 100%
 }
 
 .alba-live-table .events-info .albaicon.television,.alba_match_card .albaicon.television {
-    background-image: url(../img/tv.svg);
+    background-image: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg12n_KUd8HSZ70vkC9GDoxcAXx1xrEybMEKCratraI3u34OxaIoG6GP7S2l-tFa0ewMmfXADBmQweFs2bPtlThSTRBI9Y_3nN2hAG9J3IiuTNmBU3ddXtfBJZSi_05BrGeskxLMI49c_Eo06stgo9WjrmY1hVQx2iyoYGra2bUaEgyk8S9mPkGPVnpkA/s320/%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86.gif);
     background-size: 100%
+}
+
+.alba-live-table .events-info .albaicon.cup,.alba_match_card .albaicon.cup {
+    background-image: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXXllLWfIBddZPxAI6iftaiu5Hi1ig5anJtvTgzwui1slnt-wCw1-IY9_jfI7DwslRPC1nyTU4ccOT91pfJXrhNcGpGiJgmNWynPkoF5iDTVSmUIOhzvTwhZa4Wb64qG_WK1PDNtqlsEwJ7X5-DivnXPoe4W4MUlugTODtKgrxaWgiobKsw7vrI5ONTQ/s320/%D9%83%D8%A7%D8%B3.png);
+    background-size: 100%
+}    background-size: 100%
 }
 
 .alba-live-table .events-info .albaicon.cup,.alba_match_card .albaicon.cup {
