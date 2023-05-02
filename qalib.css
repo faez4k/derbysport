@@ -204,15 +204,16 @@ Author URI:      derbysport
 
 .alba-live-table .alba_sports_events-event_mask_inner_text {
     margin-top: 0;
-    background: linear-gradient(86deg,#0c9,#09f);
-    color: #fff;
+    background: #6e6f71;
+    color: #ffffff;
     padding: 5px 30px!important;
     font-size: 14px;
     line-height: 22px;
     text-decoration: none;
     z-index: 555;
     font-family: Droid Arabic Kufi;
-    font-weight: 700
+    font-weight: 700;
+    border-radius: 15px;
 }
 
 .alba-live-table .alba_sports_events-event_item:hover .alba_sports_events-event_mask {
