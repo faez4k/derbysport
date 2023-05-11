@@ -4597,11 +4597,7 @@ a {
 
 .post_outer a {
     text-decoration: none
-}
 
-.wrapper li {
-    list-style: none;
-    border-bottom: solid 1px #eee
 }
 
 .comment-list article.comment-body {
