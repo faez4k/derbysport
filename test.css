@@ -158,9 +158,9 @@ Author URI:      derbysport
     display: flex;
     width: 100%;
     background: #fff;
-    border-radius: 15px;
+    /* border-radius: 15px; */
     padding: 10px 10px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     position: relative;
     flex-direction: column;
     justify-content: center;
@@ -196,7 +196,7 @@ Author URI:      derbysport
     -ms-flex-align: center;
     align-items: center;
     height: 100%;
-    background: #cccccc36;
+    /* background: #cccccc36; */
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -204,8 +204,8 @@ Author URI:      derbysport
 
 .alba-live-table .alba_sports_events-event_mask_inner_text {
     margin-top: 0;
-    background: linear-gradient(86deg,#0c9,#09f);
-    color: #fff;
+    background-color: #2487e6;
+    color: #ffffff;
     padding: 5px 30px!important;
     font-size: 14px;
     line-height: 22px;
@@ -359,7 +359,7 @@ Author URI:      derbysport
     color: #ffffff;
     padding: 0 10px 1px;
     border-radius: 80px;
-    background: #6e6f71;
+    background: #d44949;
     font-weight: 700;
     line-height: 19px;
     display: inline-block;
@@ -414,15 +414,17 @@ Author URI:      derbysport
 }
 
 .chanels-fix {
-    /* border-bottom: 1px solid #cd4141; */
+    border-top: 1px solid #ededed;
     margin-top: 6px;
     text-align: center;
     padding: 10px 0 6px;
     width: 100%;
     margin-bottom: 2px;
-    border-radius: 15px;
+    /* border-radius: 15px; */
     box-shadow: 0 5px 35px rgba(0,0,0,.07);
-    background: #05050517;
+    background: #ffffff;
+    /* border-top-left-radius: 15px; */
+    /* border-top-right-radius: 15px; */
 }
 
 .events-info {
@@ -439,7 +441,7 @@ Author URI:      derbysport
     font-size: 12px;
     display: inline-flex;
     align-items: center;
-    justify-content: center
+    justify-content: center;
 }
 
 .alba-live-table .events-info .fa {
