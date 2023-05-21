@@ -157,14 +157,16 @@ Author URI:      derbysport
 .alba-live-table .alba_sports_events-event_item {
     display: flex;
     width: 100%;
-    background: #fff;
-    /* border-radius: 15px; */
+    background: linear-gradient(to top, #ffffff 0%, #ffffff 100%);
+    /* border-top-left-radius: 24px; */
     padding: 10px 10px;
     margin-bottom: 10px;
     position: relative;
     flex-direction: column;
     justify-content: center;
-    box-shadow: 0 5px 47px rgba(0,0,0,0.09);
+    /* box-shadow: 0 5px 47px rgba(0,0,0,0.09); */
+    border: 1px solid #e2e1e1;
+    /* border-top-right-radius: 24px; */
 }
 
 .alba-live-table .alba_sports_events_link {
@@ -414,17 +416,19 @@ Author URI:      derbysport
 }
 
 .chanels-fix {
-    border-top: 1px solid #ededed;
     margin-top: 6px;
     text-align: center;
     padding: 10px 0 6px;
     width: 100%;
     margin-bottom: 2px;
-    /* border-radius: 15px; */
-    box-shadow: 0 5px 35px rgba(0,0,0,.07);
-    background: #ffffff;
+    /* border-radius: 19px; */
+    /* box-shadow: -1px 2px 6px rgba(0,0,0,.08); */
+    background: linear-gradient(to top, #efefef 0%, #ffffff 100%);
     /* border-top-left-radius: 15px; */
     /* border-top-right-radius: 15px; */
+    border-image: linear-gradient(#e3e3e3, #1919193b) 2;
+    border-width: 1px;
+    border-style: solid;
 }
 
 .events-info {
