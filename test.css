@@ -62,7 +62,7 @@ Author URI:      derbysport
     flex: 1;
     font-size: 18px;
     line-height: 1;
-    font-family: Droid Arabic Kufi
+    font-family: 'El Messiri';
 }
 
 .alba-live-table .table-title .title:before,.alba-live-table .table-title .after:before {
@@ -111,7 +111,7 @@ Author URI:      derbysport
     height: 40px;
     display: flex;
     border: 1px solid #e0e0e0;
-    font-family: "Droid Arabic Kufi";
+    font-family: 'El Messiri';
     font-weight: 700;
     color: #385898;
     width: 32%
@@ -157,16 +157,14 @@ Author URI:      derbysport
 .alba-live-table .alba_sports_events-event_item {
     display: flex;
     width: 100%;
-    background: linear-gradient(to top, #ffffff 0%, #ffffff 100%);
-    /* border-top-left-radius: 24px; */
+    background: #fff;
+    /* border-radius: 15px; */
     padding: 10px 10px;
     margin-bottom: 10px;
     position: relative;
     flex-direction: column;
     justify-content: center;
-    /* box-shadow: 0 5px 47px rgba(0,0,0,0.09); */
-    border: 1px solid #e2e1e1;
-    /* border-top-right-radius: 24px; */
+    box-shadow: 0 5px 47px rgba(0,0,0,0.09);
 }
 
 .alba-live-table .alba_sports_events_link {
@@ -254,7 +252,7 @@ Author URI:      derbysport
 .alba-live-table .team-aria .team {
     height: 100px;
     display: block;
-    font-family: Droid Arabic Kufi
+    font-family: 'El Messiri';
 }
 
 .alba-live-table .alba-team_logo {
@@ -291,7 +289,7 @@ Author URI:      derbysport
     text-align: center;
     font-weight: 700;
     line-height: 1;
-    font-family: Droid Arabic Kufi
+    font-family: 'El Messiri';
 }
 
 .alba-live-table .event_title_wrapper {
@@ -309,7 +307,7 @@ Author URI:      derbysport
 .alba-live-table .event_title_wrapper .matchTime {
     text-align: center;
     letter-spacing: -2px;
-    font-family: sans-serif;
+    font-family: 'El Messiri';
     direction: ltr;
     font-size: 30px;
     color: #333333;
@@ -337,10 +335,10 @@ Author URI:      derbysport
 
 .alba-live-table .matchResult {
     position: relative;
-    width: 100%;
+    width: 102%;
     display: flex;
     align-items: center;
-    justify-content: center
+    justify-content: center;
 }
 
 .alba-live-table .result {
@@ -416,19 +414,17 @@ Author URI:      derbysport
 }
 
 .chanels-fix {
+    border-top: 1px solid #ededed;
     margin-top: 6px;
     text-align: center;
     padding: 10px 0 6px;
     width: 100%;
     margin-bottom: 2px;
-    /* border-radius: 19px; */
-    /* box-shadow: -1px 2px 6px rgba(0,0,0,.08); */
-    background: linear-gradient(to top, #efefef 0%, #ffffff 100%);
+    /* border-radius: 15px; */
+    box-shadow: 0 5px 35px rgba(0,0,0,.07);
+    background: #ffffff;
     /* border-top-left-radius: 15px; */
     /* border-top-right-radius: 15px; */
-    border-image: linear-gradient(#e3e3e3, #1919193b) 2;
-    border-width: 1px;
-    border-style: solid;
 }
 
 .events-info {
