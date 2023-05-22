@@ -414,7 +414,7 @@ Author URI:      derbysport
 }
 
 .chanels-fix {
-    border-top: 1px solid #ededed;
+    border: 1px solid #ededed;
     margin-top: 6px;
     text-align: center;
     padding: 10px 0 6px;
