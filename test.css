@@ -416,14 +416,14 @@ Author URI:      derbysport
 
 .chanels-fix {
     border-top: 1px solid #e1e1e1;
-    margin-top: 6px;
+    margin-top: 5px;
     text-align: center;
-    padding: 5px 0 2px;
+    padding: 5px 0 0px;
     width: 100%;
-    margin-bottom: -6px;
-    /* border-radius: 15px; */
-    /* box-shadow: 0 3px 2px rgb(0 0 0 / 69%); */
-    /* background: #f8f8f8; */
+    margin-bottom: 0px;
+    /* border-radius: 6px; */
+    /* box-shadow: 0 2px 1px rgb(0 0 0 / 7%); */
+    /* background: #f9f9f9; */
     /* border-top-left-radius: 15px; */
     /* border-top-right-radius: 15px; */
 }
@@ -436,7 +436,7 @@ Author URI:      derbysport
 .alba-live-table .events-info span {
     width: 33.33333333%;
     font-size: 0.7em;
-    color: #222222;
+    color: #000000;
     text-align: center;
     padding: 0 3px;
     font-size: 12px;
@@ -702,17 +702,17 @@ Author URI:      derbysport
 }
 
 .alba-live-table .events-info .albaicon.microphone,.alba_match_card .albaicon.microphone {
-    background-image: url(https://cdn-icons-png.flaticon.com/512/2817/2817914.png);
+    background-image: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwsJkyLFxIV-oI3MVPuq1-YAYe8NHGJx53YW5KfH7f5liNPnvAYHntAxnwj0Zg7I1Xk309GJRT0-1OhcIybwyG6lOOUdHHzU5tZ5zicrYHXY_XxBBPJRtni5PX4UzOPDrTYklTQBEMw0gW7PTBmRt68NlmwiLATTe3-KkP4AmIeOZgfODbevLWOqN0MQ/s1600/2817914%20%282%29.png);
     background-size: 135%;
 }
 
 .alba-live-table .events-info .albaicon.television,.alba_match_card .albaicon.television {
-    background-image: url(https://cdn-icons-png.flaticon.com/512/1025/1025101.png);
-    background-size: 100%
+    background-image: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDRpTZId2czdTOpFci6seZOjEDpTzO7zpvEyZvxyBH1KQEJHwL73YlYclNbbZOt23zf6SIcA6rB6zEM_ST57fqSO1-YVtsD1FT-92rYnDxumSBPMoe3yk9rcIS4fy4PbQ061yv38rXCYqUUpdGzE8YxqwI2nIKVVPqqU1nVCSbVSb54P-2d_sDUHOHow/s1600/1025101.png);
+    background-size: 100%;
 }
 
 .alba-live-table .events-info .albaicon.cup,.alba_match_card .albaicon.cup {
-    background-image: url(https://cdn-icons-png.flaticon.com/512/819/819590.png);
+    background-image: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjfHW323HpBXCGDbfcuevK4EIv3RAC3towlDBLNT0mMNKxU0ABKc3ajGLo6sEdf6RZURTcNfUShl58_R-e4uF9sCpl5XJmhIJBGFQk1uwoXRioiittAb5GJcTAR3_rdjqAPNYRc4Zu-9ZH6-uvCaRWYmh8_djSHclN2HSS9KuaMaEIleXHHzm3OirDSw/s1600/819590.png);
     background-size: 100%
 }
 
