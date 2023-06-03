@@ -63,7 +63,7 @@ Author URI:      derbysport
     flex: 1;
     font-size: 18px;
     line-height: 1;
-    font-family: 'El Messiri';
+    font-family: 'Neo Sans Arabic';
 }
 
 .alba-live-table .table-title .title:before,.alba-live-table .table-title .after:before {
@@ -112,7 +112,7 @@ Author URI:      derbysport
     height: 40px;
     display: flex;
     border: 1px solid #e0e0e0;
-    font-family: 'El Messiri';
+    font-family: 'Neo Sans Arabic';
     font-weight: 700;
     color: #385898;
     width: 32%
@@ -254,7 +254,7 @@ Author URI:      derbysport
 .alba-live-table .team-aria .team {
     height: 100px;
     display: block;
-    font-family: 'El Messiri';
+    font-family: 'Neo Sans Arabic';
 }
 
 .alba-live-table .alba-team_logo {
@@ -291,7 +291,7 @@ Author URI:      derbysport
     text-align: center;
     font-weight: 700;
     line-height: 1;
-    font-family: 'El Messiri';
+    font-family: 'Neo Sans Arabic';
 }
 
 .alba-live-table .event_title_wrapper {
@@ -309,7 +309,7 @@ Author URI:      derbysport
 .alba-live-table .event_title_wrapper .matchTime {
     text-align: center;
     letter-spacing: -2px;
-    font-family: 'El Messiri';
+    font-family: 'Neo Sans Arabic';
     direction: ltr;
     font-size: 30px;
     color: #333333;
@@ -367,7 +367,7 @@ Author URI:      derbysport
     display: inline-block;
     font-size: 14px;
     margin: 0px auto!important;
-    font-family: 'El Messiri';
+    font-family: 'Neo Sans Arabic';
 }
 
 .m_block.alba_sports_events-event_item.finshed .Matchestatus .status .stay {
