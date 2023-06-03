@@ -18,14 +18,15 @@ Author URI:      derbysport
 }
 
 .alba-live-table {
+    margin-bottom: 20px;
     overflow: hidden;
     position: relative;
     padding: 0;
     box-sizing: border-box;
     /* font-family:Droid Arabic Kufi; */
     border: 1px solid #dddfe2;
-    background: #f9f9f9;
-    width: 100%
+    background: #ffffff;
+    width: 100%;
 }
 
 .alba-live-table.as-cover {
@@ -49,7 +50,7 @@ Author URI:      derbysport
     overflow: hidden;
     display: flex;
     align-items: center;
-    padding: 0 15px;
+    padding: 0px 15px;
     background: #fff;
     border-bottom: 1px solid #dadde1;
     margin: 0
